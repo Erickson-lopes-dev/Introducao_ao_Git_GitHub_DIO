@@ -6,6 +6,6 @@ Windows:
 
  Unix
  - cd : Mudar de diretorio
- -ls : Listar
+ - ls : Listar
  - mkdir : Criar diretorios
  - rm -rf : deletar diretorios
