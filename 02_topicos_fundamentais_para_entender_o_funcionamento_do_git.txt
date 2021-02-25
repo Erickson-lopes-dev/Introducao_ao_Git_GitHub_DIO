@@ -1,0 +1,4 @@
+SHA1: Gera uma uma corrente de 40 caracteres
+echo 'ola mundo' | openssl sha1
+> (stdin)= 1245d8e7f5d4e8f4d2s6d5v8d5f1s6s8f165s6d5c2d5
+
