@@ -1,0 +1,11 @@
+Windows:
+ - cd : mudar de diretorio
+ - dir : Listar
+ - mkdir : Criar diretorios
+ - del / rmdir : deletar diretorios
+
+ Unix
+ - cd : Mudar de diretorio
+ -ls : Listar
+ - mkdir : Criar diretorios
+ - rm -rf : deletar diretorios
